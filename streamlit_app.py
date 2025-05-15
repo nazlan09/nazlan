@@ -1,8 +1,10 @@
 import streamlit as st
 
-st.title("naze")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+import streamlit as st
 
+st.title("Hiii wllcome di situs nazlan")
+st.image("IMG_6843.jpeg",width=150)
+st.write("\n")
+st.subheader("Nazlan D")
+st.write("Mari Belajar Bersama  Yesz!")
 st.https://github.com/nazlan09/nazlan/tree/main/views
